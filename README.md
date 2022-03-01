@@ -2,6 +2,6 @@
 - Real Time Web Cam Detection
 - Image Detection
 - Video Detection
-# Libraries
+# Libraries Used
 - Opencv
 - numpy
